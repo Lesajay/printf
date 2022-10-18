@@ -7,9 +7,9 @@ Mandatory Tasks
 
  Create a man page for your function.
 
-Advanced Tasks
+Advanced Tasks (some)
 
- Handle conversion specifier b.
+: Handle conversion specifier b.
 
  Handle conversion specifiers u, o, x, X.
 
