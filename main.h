@@ -1,5 +1,7 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
+#include <stdarg.h>
+#include <stdio.h>
 
 /**
  * struct print - structure for printing various types
@@ -39,4 +41,4 @@ int print_less(va_list less);
 int print_space(va_list space);
 int print_sharp(va_list sharp);
 
-#endif  /*MAIN_H */
+#endif  /*_MAIN_H_ */
